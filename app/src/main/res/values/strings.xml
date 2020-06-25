@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">CovidA</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_track">Traces Manager</string>
+
+    <string name="home_second">Home Second</string>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <string name="service_on_off_title">Background Services</string>
+    <string name="service_on_off">Switch on/off the location tracking and the activity recognition services</string>
+    <string name="service_header">Service</string>
+
+    <string name="label_track">Traces Manager</string>
+    <string name="home_setting_name">Set your home address</string>
+    <string name="default_home_address">Click here to set your home address</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="backgroudServicesEnabled">backgroudServicesEnabled</string>
+
+</resources>

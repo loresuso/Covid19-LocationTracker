@@ -1,0 +1,34 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <!--
+        <PreferenceCategory
+            app:title="@string/service_header"> -->
+
+    <SwitchPreferenceCompat
+        app:key="service"
+        android:icon="@drawable/ic_gps_fixed_black_24dp"
+        app:title="@string/service_on_off_title"
+        app:summary="@string/service_on_off"/>
+
+    <Preference
+        app:key="home_set"
+        app:title="Your home address"
+        android:summary="@string/default_home_address"
+        android:icon="@drawable/ic_city_32dp">
+    </Preference>
+
+    <Preference
+        app:key="about"
+        app:title="About"
+
+        android:summary=
+            "An app for assessing the risks associated to user's activities during COVID-19 pandemics. A learning activity of the Mobile and Pervasive Systems class a.y. 2019/2020">
+    </Preference>
+
+    <!--
+        </PreferenceCategory>
+    -->
+</PreferenceScreen>
+
