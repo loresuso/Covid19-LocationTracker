@@ -14,4 +14,4 @@ _This app is developed by using Google APIs, such as Activity Recognition and Ma
 
  
  Lorenzo Susini, Federico Cappellini, Andrea Lelli, Alberto Lunghi
- May 2020
+
